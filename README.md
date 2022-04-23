@@ -8,7 +8,9 @@ I am pursuing to be a web developer, exploring the front-end and back-end develo
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with UX/UI designing
 - 💬 Ask me about The Promised Neverland and One Piece
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariah-gift-miranda/)
+- 📫 How to reach me: 
+- [LinkedIn](https://www.linkedin.com/in/mariah-gift-miranda/)
+- I also play Kalimba, you can check my tutorials [YouTube](https://www.youtube.com/aweirdgift)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I always approach pets even though I am allergic them.
 
