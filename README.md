@@ -1,3 +1,6 @@
+
+![header1](https://user-images.githubusercontent.com/59074149/165266273-56b1c345-958e-4dbd-887b-c4ae67635ffb.jpg)
+
 ### Hi there 👋
 
 I'm **Mariah Gift** currently a Computer Science student at City College of Calamba.
