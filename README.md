@@ -14,5 +14,5 @@ I am pursuing to be a software developer, exploring the front-end and back-end d
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariah-gift-miranda/)
 - 🎶 I play Kalimba, you can check my tutorials [YouTube](https://www.youtube.com/channel/UCjW0-VUvFLQQs5YPoyVXTLg/featured)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't go to school without a bagpack
+- ⚡ Fun fact: I like eating ice cubes
 
